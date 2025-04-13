@@ -19,9 +19,9 @@ To model and analyze parsing difficulty in human language processing using Pytho
 ## 📊 Tools & Libraries
 
 - Python 3
-- `numpy`, `pandas` – for data simulation and handling
-- `statsmodels` – for statistical analysis (ANOVA)
-- `matplotlib`, `seaborn` – for data visualization
+- `numpy`, `pandas` 
+- `statsmodels`
+- `matplotlib`, `seaborn` 
 
 ## 📈 Output
 
