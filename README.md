@@ -34,10 +34,10 @@ This project reflects foundational concepts in psycholinguistics, such as parsin
 
 ## 📁 File Structure
 parsing_difficulty_project/
-├── parsing_difficulty.py
-├── parsing_difficulty_plot.png
-├── README.md
-└── .gitignore
+- parsing_difficulty.py
+- parsing_difficulty_plot.png
+- README.md
+- .gitignore
 
 
 
@@ -45,12 +45,12 @@ parsing_difficulty_project/
 
 1. Make sure **Python 3** is installed on your system.
 
-2. (Optional but recommended) Create a virtual environment:
+2.  Create a virtual environment:
    ```bash
    python -m venv venv
-   # Activate on macOS/Linux:
+   # on macOS/Linux to activate venv:
    source venv/bin/activate
-   # OR activate on Windows:
+   # on Windows activate venv:
    venv\Scripts\activate
    
 3. Install the required packages:
