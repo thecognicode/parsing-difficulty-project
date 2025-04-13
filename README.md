@@ -26,7 +26,7 @@ To model and analyze parsing difficulty in human language processing using Pytho
 ## 📈 Output
 
 - Console output: ANOVA summary table
-- File output: `parsing_difficulty_plot.png` – visual comparison of reading times
+- File output: parsing_difficulty_plot.png – shows simulated reading times for different sentence types
 
 ## 🔍 Relevance to Cognitive Science
 
