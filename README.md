@@ -34,3 +34,15 @@ This project reflects foundational concepts in psycholinguistics, such as parsin
 
 ## 📁 File Structure
 
+## ✅ To Run
+
+1. Make sure **Python 3** is installed on your system.
+
+2. (Optional but recommended) Create a virtual environment:
+   ```bash
+   python -m venv venv
+   # Activate on macOS/Linux:
+   source venv/bin/activate
+   # OR activate on Windows:
+   venv\Scripts\activate
+
