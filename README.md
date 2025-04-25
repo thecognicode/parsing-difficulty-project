@@ -32,7 +32,7 @@ To model and analyze parsing difficulty in human language processing using Pytho
 
 This project reflects foundational concepts in psycholinguistics, such as parsing difficulty and sentence structure. It also demonstrates competence in empirical methods and statistical reasoning—key components in cognitive science research.
 
-## 📁 File Structure
+##  File Structure
 parsing_difficulty_project/
 - parsing_difficulty.py
 - parsing_difficulty_plot.png
@@ -41,7 +41,7 @@ parsing_difficulty_project/
 
 
 
-## ✅ To Run
+##  To Run
 
 1. Make sure **Python 3** is installed on your system.
 
