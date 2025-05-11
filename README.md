@@ -3,7 +3,7 @@
 This mini-project simulates how difficult different sentence structures are to process, using Python and some basic stats. Inspired by classic psycholinguistic studies, it models reading times for different sentence types and uses ANOVA to see if those differences are statistically meaningful.
 
 What’s the Goal?
-To explore how sentence structure affects processing difficulty. We’re modeling this using simulated reading times and comparing the results with a one-way ANOVA. It’s a simple but insightful way to connect cognitive science concepts with hands-on Python code.
+To find out if some sentence structures are harder to read than others - and whether that difference is statistically significant. This kind of analysis is inspired by classic studies in psycholinguistics, and it's a great way to connect theory with hands-on coding.
 
 ## How It Works
 
@@ -41,7 +41,7 @@ We simulate reading times for three types of English sentences:
 
 ## Why It Matters
 
-This project ties directly into psycholinguistics and cognitive science. It touches on how we mentally parse different sentence structures—and how we can simulate and analyze that with data. Plus, it’s a great example of using stats to answer a research question.
+This project ties directly into psycholinguistics and cognitive science. It touches on how we mentally parse different sentence structures - and how we can simulate and analyze that with data. Plus, it’s a great example of using stats to answer a research question.
 
 ## Project Structure
 
@@ -59,7 +59,7 @@ parsing_difficulty_project/
 
 python -m venv venv
 
-Activate the virtual environment:((depends on your OS)
+Activate the virtual environment: (depends on your OS)
 
 Install the required packages:
 
