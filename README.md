@@ -1,4 +1,4 @@
-# 🧠 Simulating Parsing Difficulty & ANOVA Analysis
+# Simulating Parsing Difficulty & ANOVA Analysis
 
 This mini-project simulates how difficult different sentence structures are to process, using Python and some basic stats. Inspired by classic psycholinguistic studies, it models reading times for different sentence types and uses ANOVA to see if those differences are statistically meaningful.
 
